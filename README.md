@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Shlok
+### Hey there 👋, I'm Shlok!
 
 Welcome to my GitHub main page! Here you will find a list of my projects and contributions. 
 
